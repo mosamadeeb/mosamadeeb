@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: mosamadeeb/profile_stack@fix-percent-encoding
+      - uses: mosamadeeb/profile_stack@docker-deploy
         with:
           path: config/stack.yml
