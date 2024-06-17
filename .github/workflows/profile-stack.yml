@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gleich/profile_stack@master
+      - uses: mosamadeeb/profile_stack@fix-encoding
         with:
           path: config/stack.yml
