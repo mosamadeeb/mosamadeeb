@@ -8,14 +8,8 @@ I like building software 💻
 - 👨‍💻 Enjoy working with low-level things: embedded programming, [reverse engineering](https://github.com/mosamadeeb/YakuzaParless), [binary file formats](https://github.com/mosamadeeb/eboot_string_patcher), etc.
 - 🧠 Currently learning backend development to perfect my Python skills (See my progress over at [Roadmap.sh](https://roadmap.sh/python?s=666ee8175a1e5ea6c270f1b9)!)
 
-### Stats
-
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-[![](https://raw.githubusercontent.com/mosamadeeb/mosamadeeb/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mosamadeeb/mosamadeeb/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mosamadeeb/mosamadeeb/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- https://github.com/yhype -->
-![](https://hit.yhype.me/github/profile?user_id=52977072)
+### Projects
+<!-- https://github.com/gleich/profile_stack -->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
@@ -25,3 +19,12 @@ I like building software 💻
 | [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | [![yagami-decryption-agency](https://img.shields.io/static/v1?label=&message=yagami-decryption-agency&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mosamadeeb/yagami-decryption-agency) [![xfbin-nucc-binary](https://img.shields.io/static/v1?label=&message=xfbin-nucc-binary&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mosamadeeb/xfbin-nucc-binary) |
 | [![Blender scripts](https://img.shields.io/static/v1?label=&message=Blender%20scripts&color=E87D0D&logo=blender&logoColor=FFFFFF)](https://www.blender.org/) | [![yakuza-gmt-blender](https://img.shields.io/static/v1?label=&message=yakuza-gmt-blender&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mosamadeeb/yakuza-gmt-blender) [![kurohyo_elpk_blender](https://img.shields.io/static/v1?label=&message=kurohyo_elpk_blender&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mosamadeeb/kurohyo_elpk_blender) [![cc2_xfbin_blender](https://img.shields.io/static/v1?label=&message=cc2_xfbin_blender&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mosamadeeb/cc2_xfbin_blender) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+### Stats
+
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+[![](https://raw.githubusercontent.com/mosamadeeb/mosamadeeb/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mosamadeeb/mosamadeeb/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mosamadeeb/mosamadeeb/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- https://github.com/yhype -->
+![](https://hit.yhype.me/github/profile?user_id=52977072)
