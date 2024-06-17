@@ -11,7 +11,7 @@
     - url: https://github.com/mosamadeeb/PyBinaryReader
     - url: https://github.com/mosamadeeb/eboot_string_patcher
 
-- name: .NET C#
+- name: C#
   logo: dotnet
   url: https://dotnet.microsoft.com/en-us/
   color: '#512BD4'
@@ -37,7 +37,7 @@
     - url: https://github.com/mosamadeeb/yagami-decryption-agency
     - url: https://github.com/mosamadeeb/xfbin-nucc-binary
 
-- name: Blender scripts
+- name: Blender
   logo: blender
   url: https://www.blender.org/
   color: '#E87D0D'
