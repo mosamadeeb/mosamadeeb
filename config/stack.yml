@@ -1,0 +1,47 @@
+# Config format here:
+# https://github.com/gleich/profile_stack?tab=readme-ov-file#%EF%B8%8F-config
+# Get logos and colors from here: https://simpleicons.org/
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3776AB'
+  projects:
+    - url: https://github.com/mosamadeeb/ChatDB
+    - url: https://github.com/mosamadeeb/PyBinaryReader
+    - url: https://github.com/mosamadeeb/eboot_string_patcher
+
+- name: .NET C#
+  logo: dotnet
+  url: https://dotnet.microsoft.com/en-us/
+  color: '#512BD4'
+  projects:
+    - url: https://github.com/mosamadeeb/RyuModManager
+    - url: https://github.com/mosamadeeb/ParToolShell
+    - url: https://github.com/mosamadeeb/MMXD-Mods/tree/main/Tangerine
+
+- name: C++
+  logo: cplusplus
+  url: https://isocpp.org/
+  color: '#00599C'
+  projects:
+    - url: https://github.com/mosamadeeb/Raytracer
+    - url: https://github.com/mosamadeeb/Transformer
+    - url: https://github.com/mosamadeeb/CpkPatcher
+
+- name: Rust
+  logo: rust
+  url: https://www.rust-lang.org/
+  color: '#000000'
+  projects:
+    - url: https://github.com/mosamadeeb/yagami-decryption-agency
+    - url: https://github.com/mosamadeeb/xfbin-nucc-binary
+
+- name: Blender scripts
+  logo: blender
+  url: https://www.blender.org/
+  color: '#E87D0D'
+  projects:
+    - url: https://github.com/mosamadeeb/yakuza-gmt-blender
+    - url: https://github.com/mosamadeeb/kurohyo_elpk_blender
+    - url: https://github.com/mosamadeeb/cc2_xfbin_blender
