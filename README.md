@@ -1,14 +1,57 @@
-## Hi there, I'm Mohamed Eldeeb 👋
+## mosamadeeb
 
-I like building software 💻
+*(previously known as SutandoTsukai181)*
 
-### About me
-- 📚 Studied computer engineering at [Middle East Technical University - NCC](https://ncc.metu.edu.tr/). Check out my Capstone project: [Safe Alone](https://github.com/mosamadeeb/MultiSensorHardwareSetup)
-- 💪 Most proficient with Python and C#, but also practicing my modern C++ and Rust.
-- 👨‍💻 Enjoy working with low-level things: embedded programming, [reverse engineering](https://github.com/mosamadeeb/YakuzaParless), [binary file formats](https://github.com/mosamadeeb/eboot_string_patcher), etc.
-- 🧠 Currently learning backend development to perfect my Python skills (See my progress over at [Roadmap.sh](https://roadmap.sh/python?s=666ee8175a1e5ea6c270f1b9)!)
+If only writing profile readmes was as fun as coding...
 
-### Projects
+### 📚 Education
+- BSc. w/ High Honors in Computer Engineering (read: CS in middle east). Attended 2 years at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) then transferred to [Middle East Technical University (NCC)](https://ncc.metu.edu.tr/).
+
+- Some of the interesting courses I took:
+  - **Database Management Systems**: query optimization, transaction management, concurrency control, crash recovery, security & authorization...
+  
+  - **Image Processing**: space and frequency domains, image enhancement, edge detection, segmentation, morphology, compression, pattern recognition... (all practiced in MATLAB)
+  
+  - **Cloud Computing**: parallel & distributed systems, scaling, virtualization, containers, AWS, architectures (REST, pub-sub, middleware), communication (RPC, messaging), coordination, election algorithms, fault tolerance...
+  
+  - **Computer Graphics**: [ray tracing](https://github.com/mosamadeeb/Raytracer), shading, texture mapping, data structures for graphics, [modelling & viewing transformations](https://github.com/mosamadeeb/Transformer), forward rendering pipeline, culling, clipping, rasterization, OpenGL, vertex & fragment shaders, shadows, curves, surfaces...
+
+  - **Operating Systems, Data Communication & Networks, Embedded Systems**
+
+- My capstone project was about [activity detection-based health monitoring](https://github.com/mosamadeeb/MultiSensorHardwareSetup) where I programmed MCUs in C++ and Pi's in Python to create a reliable and recoverable multi-sensor network that collects human motion data for activity detection on the edge.
+
+### 🧠 Interests
+**Backend development**, because I like designing and building systems, and I'm always excited about the latest open-source libraries that let me try out different approaches for solving a problem 👀.
+- Completed courses about HTTP clients and [web servers](https://github.com/mosamadeeb/go-playground/tree/main/boot.dev/learn-web-servers) while learning Go on [Boot.dev](https://www.boot.dev).
+- Build(ing) an API for a [workout tracker](https://github.com/mosamadeeb/go-workout-tracker) (idea from [roadmap.sh](https://roadmap.sh/projects/fitness-workout-tracker)) in Go so I can become familiar with modern backend practices in Go.
+- Built some RESTful servers during my internships using .NET (C#). I later on realized how huge of a tech debt .NET had after I built a server in Go.
+
+**Reverse engineering**, because I like going deep into the details of how something works.
+- I RE'd a lot (and I mean a lot) of file formats and structures used in video games, and built tools for them, such as:
+  - (Un)packers for archive formats
+
+  - Conversion (or Blender import) scripts for 3D model, animation, and texture formats for games such as [Yakuza](https://github.com/mosamadeeb/yakuza-gmt-blender), [Kurohyou](https://github.com/mosamadeeb/kurohyo_elpk_blender), and [Naruto Storm/JoJo All Star Battle](https://github.com/mosamadeeb/cc2_xfbin_blender)
+
+  - (De)serializers for general game data formats
+- Used IDA Pro, Ghidra and x64dbg (disassemblers/debuggers) to figure out specific game behaviour which allowed me to:
+  - RE some of the more complicated formats
+
+  - Find out the compression algorithms or [encryption](https://github.com/mosamadeeb/yagami-decryption-agency) used for archives
+
+  - Write function hooks that get injected into the game's process to modify the logic, and perform things such as *loading unpacked modifed files from other directories* (essentially a [mod loader](https://github.com/mosamadeeb/YakuzaParless))
+
+### 💻 Programming languages
+- Language I'm most comfortable with: **Python**, as I've been using it for +4 years for writing scripts and it just used to fill my (simple) programming needs.
+
+- In addition to Python, I've written a lot of projects in **C++, C#, Java, and Rust**.
+
+- Favourite programming language: ~~the right one for the job~~ **Go**, because it lets me write clean and simple, yet powerful and performant code. It also ticks all of my checkboxes for a user-friendly language (type inference, structs with methods, no OOP, no borrow checker, less brackets/semicolons).
+
+- I still occasionally use C++ and Python, depending on the requirements of what I need to build.
+
+### 👨‍💻 Projects
+These are some of the projects I think are interesting, grouped by language.
+
 <!-- https://github.com/gleich/profile_stack -->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Language** | 🚀 **Projects** |
